@@ -20,21 +20,30 @@ Here's a walkthrough of implemented user stories:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with [Kap](https://getkap.co/) for macOS
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+### WhatsApp
+- Has a default 3D motion interactive background set for chats.
+- Allows to delete messages for both users. 
+
+### Discord
+- It's an All-in-One app for ex: it allows calls, messages, group chats, screen sharing, pin messages, etc.
+- Has lots of customization options 
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+- I had never used Swift and learning Swift was a bit hard but the documentation was clear enough that I got a hang of it. 
+- When trying to run the code I was having trouble dragging the button file into the viewController class. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Muhammad U Jamil]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
